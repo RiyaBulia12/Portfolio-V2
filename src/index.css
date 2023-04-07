@@ -4,6 +4,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'Classy';
+  src: url(./fonts/Classy.ttf);
+}
+
 * {
   margin: 0;
   padding: 0;
